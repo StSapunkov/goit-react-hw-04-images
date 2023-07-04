@@ -1,5 +1,5 @@
 import { Oval } from 'react-loader-spinner';
-import css from './Loader.module.css'
+import css from './Loader.module.css';
 import PropTypes from 'prop-types';
 
 const Loader = () => {
