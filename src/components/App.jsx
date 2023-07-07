@@ -1,5 +1,4 @@
 import css from './App.module.css';
-
 import Searchbar from './Searchbar/Searchbar';
 import Loader from './Loader/Loader';
 import Modal from './Modal/Modal';
